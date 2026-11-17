@@ -1,0 +1,2 @@
+{"step": 25, "sampler_path": "tinker://ab7c9a67-252d-5ec5-90c4-559185ebe6da:train:0/sampler_weights/rl_d2-step25", "state_path": "tinker://ab7c9a67-252d-5ec5-90c4-559185ebe6da:train:0/weights/rl_d2-state-step25"}
+{"step": 50, "sampler_path": "tinker://ab7c9a67-252d-5ec5-90c4-559185ebe6da:train:0/sampler_weights/rl_d2-step50", "state_path": "tinker://ab7c9a67-252d-5ec5-90c4-559185ebe6da:train:0/weights/rl_d2-state-step50"}

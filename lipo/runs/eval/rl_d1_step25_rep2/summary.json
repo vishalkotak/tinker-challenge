@@ -1,0 +1,32 @@
+{
+  "wu_usable": {
+    "rate": 0.625,
+    "low": 0.565,
+    "high": 0.675
+  },
+  "strict_usable": {
+    "rate": 0.62,
+    "low": 0.56,
+    "high": 0.67
+  },
+  "wu_e_pass": {
+    "rate": 0.82,
+    "low": 0.77,
+    "high": 0.865
+  },
+  "strict_pass": {
+    "rate": 0.79,
+    "low": 0.74,
+    "high": 0.835
+  },
+  "judge_usable": {
+    "rate": 0.77,
+    "low": 0.72,
+    "high": 0.815
+  },
+  "median_words": 69,
+  "share_under_12_words": 0.0,
+  "non_ascii_share": 0.025,
+  "count": 200,
+  "spend_dollars": 0.16538376
+}
