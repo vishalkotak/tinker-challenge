@@ -1,0 +1,23 @@
+[
+  {
+    "epoch": 1,
+    "steps": 22,
+    "mean_loss": 2.3608202365394484,
+    "sampler_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/sampler_weights/sft_r32-epoch1",
+    "state_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/weights/sft_r32-state-epoch1"
+  },
+  {
+    "epoch": 2,
+    "steps": 44,
+    "mean_loss": 1.5515921083778474,
+    "sampler_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/sampler_weights/sft_r32-epoch2",
+    "state_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/weights/sft_r32-state-epoch2"
+  },
+  {
+    "epoch": 3,
+    "steps": 66,
+    "mean_loss": 0.9166405989523304,
+    "sampler_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/sampler_weights/sft_r32-epoch3",
+    "state_path": "tinker://6f3972a8-32eb-52e2-8694-8cb5ecda0166:train:0/weights/sft_r32-state-epoch3"
+  }
+]
