@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 *.ping
 *.png
+# local clones of other repos (linked from lipo/README.md, not vendored)
+external/
+__pycache__/
