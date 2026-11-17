@@ -1,0 +1,4 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+teacher accepted 697/700, spend $8.12
+judge kept 497/697 as usable; total spend $8.63
+saved lipo/data/sft_teacher.jsonl
