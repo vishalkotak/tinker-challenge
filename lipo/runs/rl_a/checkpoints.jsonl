@@ -1,0 +1,4 @@
+{"step": 20, "sampler_path": "tinker://3a63aaf5-0328-5939-a14e-17c4c2543e05:train:0/sampler_weights/rl_a-step20"}
+{"step": 40, "sampler_path": "tinker://3a63aaf5-0328-5939-a14e-17c4c2543e05:train:0/sampler_weights/rl_a-step40"}
+{"step": 60, "sampler_path": "tinker://3a63aaf5-0328-5939-a14e-17c4c2543e05:train:0/sampler_weights/rl_a-step60"}
+{"step": 80, "sampler_path": "tinker://3a63aaf5-0328-5939-a14e-17c4c2543e05:train:0/sampler_weights/rl_a-step80"}
