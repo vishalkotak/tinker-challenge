@@ -1,5 +1,8 @@
 # Tinker Lipogram Challenge
 
+> **This fork:** a mask-free solution lives in [`lipo/`](lipo/README.md). It gets 63.7% usable on Kevin Wu's lipogram eval without any decoding mask (Wu's masked model: 68.0%), and 63.5% vs 40.5% on a strict version that doesn't count one-word answers. The original tutorial follows unchanged.
+
+
 Train a model to answer questions without using the letter **e**. Writing that
 avoids a particular letter is called a *lipogram*. In this tutorial, you'll use
 reinforcement learning (RL) to fine-tune a model to respond while minimizing the use of the letter **e**.
