@@ -1,0 +1,65 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+{"step": 0, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.42678906250000004, "unhinted_e_free": 0.390625, "unhinted_gate_pass": 0.375, "median_words": 79, "sample_spend": 0.033}
+{"step": 1, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.49290625000000005, "unhinted_e_free": 0.578125, "unhinted_gate_pass": 0.53125, "median_words": 68, "sample_spend": 0.063}
+{"step": 2, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.380859375, "unhinted_e_free": 0.5625, "unhinted_gate_pass": 0.515625, "median_words": 75, "sample_spend": 0.096}
+{"step": 3, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.41469921875000004, "unhinted_e_free": 0.546875, "unhinted_gate_pass": 0.515625, "median_words": 78, "sample_spend": 0.127}
+{"step": 4, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5720703125000001, "unhinted_e_free": 0.484375, "unhinted_gate_pass": 0.484375, "median_words": 69, "sample_spend": 0.16}
+{"step": 5, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.47861718750000004, "unhinted_e_free": 0.546875, "unhinted_gate_pass": 0.53125, "median_words": 82, "sample_spend": 0.193}
+{"step": 6, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5989492187500001, "unhinted_e_free": 0.65625, "unhinted_gate_pass": 0.65625, "median_words": 70, "sample_spend": 0.224}
+{"step": 7, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5305078125, "unhinted_e_free": 0.59375, "unhinted_gate_pass": 0.578125, "median_words": 78, "sample_spend": 0.256}
+{"step": 8, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.48812109375, "unhinted_e_free": 0.578125, "unhinted_gate_pass": 0.578125, "median_words": 68, "sample_spend": 0.289}
+{"step": 9, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.515796875, "unhinted_e_free": 0.578125, "unhinted_gate_pass": 0.546875, "median_words": 71, "sample_spend": 0.321}
+{"step": 10, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6851875000000001, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.78125, "median_words": 64, "sample_spend": 0.352}
+{"step": 11, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.61853125, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.75, "median_words": 73, "sample_spend": 0.385}
+{"step": 12, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.49992968750000005, "unhinted_e_free": 0.671875, "unhinted_gate_pass": 0.640625, "median_words": 74, "sample_spend": 0.417}
+{"step": 13, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.6359531249999999, "unhinted_e_free": 0.78125, "unhinted_gate_pass": 0.765625, "median_words": 71, "sample_spend": 0.447}
+{"step": 14, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.508265625, "unhinted_e_free": 0.6875, "unhinted_gate_pass": 0.65625, "median_words": 71, "sample_spend": 0.48}
+checkpoint step 15: tinker://69d5e2eb-d1ba-5adb-b28d-2cb81c8e1906:train:0/sampler_weights/rl_b-step15
+{"step": 15, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.54838671875, "unhinted_e_free": 0.703125, "unhinted_gate_pass": 0.703125, "median_words": 69, "sample_spend": 0.513}
+{"step": 16, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5300390625, "unhinted_e_free": 0.671875, "unhinted_gate_pass": 0.671875, "median_words": 77, "sample_spend": 0.548}
+{"step": 17, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.61484765625, "unhinted_e_free": 0.703125, "unhinted_gate_pass": 0.703125, "median_words": 66, "sample_spend": 0.58}
+{"step": 18, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6134453124999999, "unhinted_e_free": 0.6875, "unhinted_gate_pass": 0.671875, "median_words": 66, "sample_spend": 0.613}
+{"step": 19, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5884609375000001, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.734375, "median_words": 66, "sample_spend": 0.645}
+{"step": 20, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.629859375, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.6875, "median_words": 65, "sample_spend": 0.676}
+{"step": 21, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5927890625000001, "unhinted_e_free": 0.6875, "unhinted_gate_pass": 0.671875, "median_words": 79, "sample_spend": 0.709}
+{"step": 22, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.7119140625, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.75, "median_words": 65, "sample_spend": 0.74}
+{"step": 23, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6473515624999999, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.796875, "median_words": 72, "sample_spend": 0.774}
+{"step": 24, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.614671875, "unhinted_e_free": 0.734375, "unhinted_gate_pass": 0.6875, "median_words": 73, "sample_spend": 0.806}
+{"step": 25, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.638671875, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.796875, "median_words": 67, "sample_spend": 0.839}
+{"step": 26, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.460890625, "unhinted_e_free": 0.78125, "unhinted_gate_pass": 0.765625, "median_words": 70, "sample_spend": 0.872}
+{"step": 27, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.44884570312500005, "unhinted_e_free": 0.734375, "unhinted_gate_pass": 0.71875, "median_words": 67, "sample_spend": 0.908}
+{"step": 28, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6458984375000001, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.75, "median_words": 65, "sample_spend": 0.939}
+{"step": 29, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.50752734375, "unhinted_e_free": 0.734375, "unhinted_gate_pass": 0.734375, "median_words": 73, "sample_spend": 0.974}
+checkpoint step 30: tinker://69d5e2eb-d1ba-5adb-b28d-2cb81c8e1906:train:0/sampler_weights/rl_b-step30
+{"step": 30, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5073203125, "unhinted_e_free": 0.671875, "unhinted_gate_pass": 0.671875, "median_words": 66, "sample_spend": 1.009}
+{"step": 31, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.545625, "unhinted_e_free": 0.671875, "unhinted_gate_pass": 0.671875, "median_words": 74, "sample_spend": 1.041}
+{"step": 32, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.558265625, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.765625, "median_words": 71, "sample_spend": 1.074}
+{"step": 33, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.538970703125, "unhinted_e_free": 0.6875, "unhinted_gate_pass": 0.671875, "median_words": 69, "sample_spend": 1.107}
+{"step": 34, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.46524218749999996, "unhinted_e_free": 0.65625, "unhinted_gate_pass": 0.65625, "median_words": 82, "sample_spend": 1.143}
+{"step": 35, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5206328124999999, "unhinted_e_free": 0.640625, "unhinted_gate_pass": 0.640625, "median_words": 63, "sample_spend": 1.177}
+{"step": 36, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5726562500000001, "unhinted_e_free": 0.734375, "unhinted_gate_pass": 0.734375, "median_words": 74, "sample_spend": 1.211}
+{"step": 37, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5559921875, "unhinted_e_free": 0.65625, "unhinted_gate_pass": 0.609375, "median_words": 74, "sample_spend": 1.242}
+{"step": 38, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.598037109375, "unhinted_e_free": 0.765625, "unhinted_gate_pass": 0.765625, "median_words": 81, "sample_spend": 1.276}
+{"step": 39, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.55809375, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.796875, "median_words": 67, "sample_spend": 1.311}
+{"step": 40, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6769531249999999, "unhinted_e_free": 0.78125, "unhinted_gate_pass": 0.75, "median_words": 68, "sample_spend": 1.341}
+{"step": 41, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5822031249999999, "unhinted_e_free": 0.78125, "unhinted_gate_pass": 0.78125, "median_words": 69, "sample_spend": 1.374}
+{"step": 42, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5535859375000001, "unhinted_e_free": 0.765625, "unhinted_gate_pass": 0.75, "median_words": 71, "sample_spend": 1.406}
+{"step": 43, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5238281250000001, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.6875, "median_words": 64, "sample_spend": 1.437}
+{"step": 44, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.6593281249999999, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.796875, "median_words": 74, "sample_spend": 1.47}
+checkpoint step 45: tinker://69d5e2eb-d1ba-5adb-b28d-2cb81c8e1906:train:0/sampler_weights/rl_b-step45
+{"step": 45, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6008437499999999, "unhinted_e_free": 0.78125, "unhinted_gate_pass": 0.75, "median_words": 63, "sample_spend": 1.5}
+{"step": 46, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5717265625000001, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.6875, "median_words": 72, "sample_spend": 1.534}
+{"step": 47, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6850625, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.75, "median_words": 68, "sample_spend": 1.564}
+{"step": 48, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6251953125, "unhinted_e_free": 0.890625, "unhinted_gate_pass": 0.84375, "median_words": 61, "sample_spend": 1.596}
+{"step": 49, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.666828125, "unhinted_e_free": 0.8125, "unhinted_gate_pass": 0.796875, "median_words": 69, "sample_spend": 1.628}
+{"step": 50, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.5253515625, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.703125, "median_words": 75, "sample_spend": 1.661}
+{"step": 51, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.63821875, "unhinted_e_free": 0.734375, "unhinted_gate_pass": 0.734375, "median_words": 79, "sample_spend": 1.695}
+{"step": 52, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.67045703125, "unhinted_e_free": 0.8125, "unhinted_gate_pass": 0.8125, "median_words": 71, "sample_spend": 1.726}
+{"step": 53, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.7559687500000001, "unhinted_e_free": 0.796875, "unhinted_gate_pass": 0.78125, "median_words": 74, "sample_spend": 1.759}
+{"step": 54, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 7, "mean_reward": 0.6282734375, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.71875, "median_words": 79, "sample_spend": 1.793}
+{"step": 55, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.6947265625, "unhinted_e_free": 0.8125, "unhinted_gate_pass": 0.8125, "median_words": 68, "sample_spend": 1.826}
+{"step": 56, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.619865234375, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.71875, "median_words": 78, "sample_spend": 1.861}
+{"step": 57, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.633759765625, "unhinted_e_free": 0.71875, "unhinted_gate_pass": 0.71875, "median_words": 69, "sample_spend": 1.894}
+{"step": 58, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.5813046875, "unhinted_e_free": 0.75, "unhinted_gate_pass": 0.71875, "median_words": 75, "sample_spend": 1.926}
+{"step": 59, "hint_fraction": 0.0, "hinted_groups": 0, "trained_groups": 8, "mean_reward": 0.657375, "unhinted_e_free": 0.765625, "unhinted_gate_pass": 0.765625, "median_words": 74, "sample_spend": 1.96}
+checkpoint step 60: tinker://69d5e2eb-d1ba-5adb-b28d-2cb81c8e1906:train:0/sampler_weights/rl_b-step60
